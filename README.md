@@ -3,9 +3,11 @@ Dependencies for challenges such as datasets
 
 ## Dataset Sources
 
-| local name | source | retrieved
-|------------|--------|-------------
-| [corona.json](corona.json) | https://corona-stats.online/?format=json | 9/15/2020
-| [executive.json](executive.json) | https://theunitedstates.io/congress-legislators/executive.json | 9/15/2020
-| [NBApoints2015-2016.csv](NBApoints2015-2016.csv) | https://github.com/AddisonGauss/NbaData2015-2016/blob/master/NBApoints.csv | 9/20/2020
-| [words_alpha.txt](words_alpha.txt) | https://github.com/dwyl/english-words/blob/master/words_alpha.txt | 5/24/2021
+| local name | source | retrieved | modified?
+|------------|--------|-----------|----------
+| [`corona.json`](corona.json) | <https://corona-stats.online/?format=json> | 9/15/2020 | no
+| [`executive.json`](executive.json) | <https://theunitedstates.io/congress-legislators/executive.json> | 9/15/2020 | no
+| [`NBApoints2015-2016.csv`](NBApoints2015-2016.csv) | <https://github.com/AddisonGauss/NbaData2015-2016/blob/master/NBApoints.csv> | 9/20/2020 | no
+| [`san-francisco.min.geojson`](san-francisco.geojson) | <https://cocl.us/sanfran_geojson/san-francisco.geojson> | 4/30/2022 | yes; minified
+| [`words_alpha.txt`](words_alpha.txt) | <https://github.com/dwyl/english-words/blob/master/words_alpha.txt> | 5/24/2021 | yes; alphabetized
+
