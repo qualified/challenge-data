@@ -1,0 +1,8 @@
+*.md linguist-documentation=false
+*.md linguist-detectable
+*.csv linguist-documentation=false
+*.csv linguist-detectable
+*.json linguist-documentation=false
+*.json linguist-detectable
+*.txt linguist-documentation=false
+*.txt linguist-detectable
